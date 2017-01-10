@@ -45,10 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="A+B.cs" />
+    <Compile Include="Comparison Counting Sort.cs" />
     <Compile Include="Euclid.cs" />
     <Compile Include="Phone Numbers.cs" />
     <Compile Include="Reverse Root.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sequential Search.cs" />
     <Compile Include="Sieve.cs" />
     <Compile Include="Stone Pile.cs" />
   </ItemGroup>
