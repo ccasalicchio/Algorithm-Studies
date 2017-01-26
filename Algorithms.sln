@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem Sets", "Problem Set
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{DC3A9F4C-3D50-4CD0-8582-CE1E4EF21499}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\KnapSack Problem.txt = ..\..\..\..\Downloads\KnapSack Problem.txt
 		readme.md = readme.md
+		..\..\..\..\Downloads\the Introduction to the Design & Analysis of Algorithms.pdf = ..\..\..\..\Downloads\the Introduction to the Design & Analysis of Algorithms.pdf
 	EndProjectSection
 EndProject
 Global
