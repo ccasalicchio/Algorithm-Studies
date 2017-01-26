@@ -22,7 +22,7 @@
 //                    writer.Write(result + "\t");
 //            }
 
-//            Console.ReadLine();
+//            reader.ReadLine();
 
 //        }
 //        /// <summary>
