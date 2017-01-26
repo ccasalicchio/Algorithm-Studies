@@ -44,7 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A+B.cs" />
     <Compile Include="Binary Digits.cs" />
     <Compile Include="Comparison Counting Sort.cs" />
     <Compile Include="Euclid.cs" />
@@ -53,24 +52,19 @@
     <Compile Include="Matrix Multiplication.cs" />
     <Compile Include="Matrix.cs" />
     <Compile Include="Max Element.cs" />
-    <Compile Include="Phone Numbers.cs" />
+    <Compile Include="Pseudo Random 2.cs" />
     <Compile Include="Pseudo Random.cs" />
-    <Compile Include="Reverse Root.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Secret and Enigma.cs" />
     <Compile Include="Sequential Search.cs" />
     <Compile Include="Sieve.cs" />
-    <Compile Include="Stone Pile.cs" />
     <Compile Include="Unique Elements.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <Content Include="Inputs\Stone Pile.txt" />
-    <Content Include="Inputs\Phone Numbers.txt" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
