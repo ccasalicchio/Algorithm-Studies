@@ -40,7 +40,9 @@ namespace Algorithms
         }
         public List<int> ParseStones(string stones)
         {
-            return stones.Split(' ').Select(Int32.Parse).ToList();
+            var sortedStones = stones.Split(' ').Select(Int32.Parse).ToList();
+            sortedStones.Sort();//Sort by lowest weight
+            return sortedStones;
         }
         public int SortPiles(List<int> weights, int numberOfStones)
         {
@@ -48,9 +50,6 @@ namespace Algorithms
 
             pileOne = 0;
             pileTwo = 0;
-
-            //Sort by lowest weight
-            weights.Sort();
 
             return -1;
 
