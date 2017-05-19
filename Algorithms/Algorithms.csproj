@@ -51,9 +51,11 @@
     <Compile Include="Euclid.cs" />
     <Compile Include="Factorial.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="Knapsack.cs" />
     <Compile Include="Matrix Multiplication.cs" />
     <Compile Include="Matrix.cs" />
     <Compile Include="Max Element.cs" />
+    <Compile Include="ProcessHosts.cs" />
     <Compile Include="Pseudo Random 2.cs" />
     <Compile Include="Pseudo Random.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
